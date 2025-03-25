@@ -7,7 +7,7 @@
 .heroBanner {
   color: var(--ifm-color-white);
   padding: 4rem 0;
-  background: linear-gradient(135deg, #2f7bf5 0%, #4456e3 100%);
+  background: linear-gradient(135deg, #bbc0ff 0%, #7574ff 100%);
 }
 
 .heroContent {
